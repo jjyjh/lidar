@@ -1,0 +1,27 @@
+v.3.1.1.9
+	- Update SDK version to v0.2.4
+	- Fixed the point cloud optimization logic
+
+v.3.1.1.8
+	- Update the algorithm module and fixed the problem of CS20
+
+v.3.1.1.7
+	- Optimize the aspect ratio of the views
+
+v.3.1.1.6
+	- Optimize the depth display effect
+
+v.3.1.1.5
+	- Update SDK version to v0.2.4
+	- Optimize the mirror and flip logic
+
+v.3.1.1.4
+	- Optimize the point cloud display effect
+
+v.3.1.1.2
+	- Unified the default saving path
+	- Optimize the parameter setting memory logic
+
+v.3.1.1.0
+	- Optimize the depth and point cloud display effect
+	- Adjust the angle of view of the point cloud
