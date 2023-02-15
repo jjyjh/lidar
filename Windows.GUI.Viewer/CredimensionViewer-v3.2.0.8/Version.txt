@@ -1,0 +1,70 @@
+v.3.2.0.8
+	- Corrected the position of clicked point in RGBD window
+
+v.3.2.0.7
+	- Update SDK version to v0.6.0.3
+	- Optimize the logic of firmware version's matching
+
+v.3.2.0.6
+	- Update SDK version to v0.5.17.1
+
+v.3.2.0.5
+	- Update SDK version to v0.5.17
+
+v.3.2.0.4
+	- Update SDK version to v0.5.16
+
+v.3.2.0.3
+	- Update SDK version to v0.5.14
+
+v.3.2.0.2
+	- Fixed the image file's missing in saving operation
+
+v.3.2.0.1
+	- Update SDK version to v0.4.9
+	- Corrected the display position of depth image
+
+v.3.2.0.0
+	- Update SDK version to v0.4.2
+	- Remove the optimization of depth and point cloud display effect
+	- Corrected partial text
+	- Now distance range can be modified in RGBD
+
+v.3.1.1.12
+	- Optimize the depth and point cloud display effect
+
+v.3.1.1.11
+	- Optimize the point cloud display effect
+	- Optimize brightness of IR image
+	- Add the intensity information display window in the IR window
+
+v.3.1.1.10
+	- Corrected brightness of IR image
+
+v.3.1.1.9
+	- Update SDK version to v0.2.6
+	- Fixed the point cloud optimization logic
+
+v.3.1.1.8
+	- Update the algorithm module and fixed the problem of CS20
+
+v.3.1.1.7
+	- Optimize the aspect ratio of the views
+
+v.3.1.1.6
+	- Optimize the depth display effect
+
+v.3.1.1.5
+	- Update SDK version to v0.2.4
+	- Optimize the mirror and flip logic
+
+v.3.1.1.4
+	- Optimize the point cloud display effect
+
+v.3.1.1.2
+	- Unified the default saving path
+	- Optimize the parameter setting memory logic
+
+v.3.1.1.0
+	- Optimize the depth and point cloud display effect
+	- Adjust the angle of view of the point cloud
